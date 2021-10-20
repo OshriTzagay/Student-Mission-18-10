@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+h1{
+    font-family: 'Anton', sans-serif;
+    font-size: 150px;
+    border-bottom: 3px solid black;
+    border-top: 5px solid wheat;
+}
+body{
+    background-color: burlywood;
+}
+img{
+    border: 5px wheat solid;
+}
+.studsDiv{
+    font-size: xx-large;
+    font-size: 45px;
+    font-family: 'Lobster', cursive;
+}
